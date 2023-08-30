@@ -1,4 +1,4 @@
-# John the Zero   _version 4.0 !!!!_
+# John the Zero   _version 6.0 !!!!_
 ## _The Learner_
 
 
